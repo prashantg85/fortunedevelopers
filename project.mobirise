@@ -46,14 +46,26 @@
           ],
           "_name": "header2",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-section-text": {
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#1f813c",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -89,7 +101,7 @@
               "size": 250
             }
           },
-          "title": "FORTUNE DEVELOPERS<br> SERVICE &amp; BUSINESS CONSULTANTS",
+          "title": "FORTUNE DEVELOPERS &amp;&nbsp;BUSINESS CONSULTANTS",
           "text": "“We listen, understand, question, visualize, research, and commit together to deliver quality on time.” Understand client needs Swiftly find matching talent Focus on quality Strong, long-term relationships Speed of delivery We not only provide recruitment consultancy service to our clients but help them to get human assets.\"",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tijilhms.xyz/amaravathi/login\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -102,11 +114,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
