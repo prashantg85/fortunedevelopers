@@ -188,7 +188,7 @@
             }
           },
           "title": "FORTUNE DEVELOPERS &amp;&nbsp;BUSINESS CONSULTANTS",
-          "text": "“We listen, understand, question, visualize, research, and commit together to deliver quality on time.” Understand client needs Swiftly find matching talent Focus on quality Strong, long-term relationships Speed of delivery We not only provide recruitment consultancy service to our clients but help them to get human assets.\"",
+          "text": "“We listen, understand, question, visualize, research, and commit together to deliver quality on time.” Understand client needs Swiftly find matching talent Focus on quality Strong, long-term relationships Speed of delivery We not only provide real-estate consultancy service to our clients but help them to get building assets.\"",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tijilhms.xyz/amaravathi/login\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -235,6 +235,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-b",
           "_params": {
             "labelsColor": "#232323",
@@ -280,12 +285,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
